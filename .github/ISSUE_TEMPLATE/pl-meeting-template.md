@@ -1,8 +1,12 @@
-## 기본 정보
-- 팀명:
-- 미팅 일시:
-- 미팅 회차: (예: 3주차 2회차)
-- 참여 인원:
+---
+name: PL-meeting
+about: PL 미팅 기록
+title: 'N회차-YYYY-MM-DD-[분야]-pl-meeting'
+labels: ''
+assignees: ''
+---
+
+참여 인원:
 
 ---
 
