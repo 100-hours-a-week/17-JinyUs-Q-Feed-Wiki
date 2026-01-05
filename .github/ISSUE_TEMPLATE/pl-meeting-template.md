@@ -1,12 +1,12 @@
 ---
 name: PL-meeting
 about: PL 미팅 기록
-title: 'N회차-YYYY-MM-DD-[분야]-pl-meeting'
+title: '[PL-분야명] N회차-YYYY-MM-DD'
 labels: ''
 assignees: ''
 ---
 
-참여 인원:
+**참여자**: 
 
 ---
 
