@@ -1,7 +1,7 @@
 ---
 name: PL-meeting
 about: PL 미팅 기록
-title: '[PL-분야명] N회차-YYYY-MM-DD'
+title: '[PL-AI/FS/CL] N회차-YYYY-MM-DD'
 labels: ''
 assignees: ''
 ---
